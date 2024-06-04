@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Schultz
+- 👋 Hi, I’m @ Gabriel Schultz do Amaral
 - Aprendizado em Engenharia de Software.
