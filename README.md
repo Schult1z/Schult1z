@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Schultz
-- Aprendizado de Engenharia de Software.
+- Aprendizado em Engenharia de Software.
