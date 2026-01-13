@@ -8,7 +8,7 @@
 
 #### 💻 Web Developer
 
-#### 🎓 Software Engineering Student (3nd semester)
+#### 🎓 Software Engineering Student (4nd semester)
 
 </div>
 
