@@ -6,9 +6,9 @@
 
 <div align="left">
 
-#### 💻 Web Developer
+#### 💻 Web Developer (Junior)
 
-#### 🎓 Software Engineering Student (4nd semester)
+#### 🎓 Software Engineering Student (5nd semester)
 
 </div>
 
