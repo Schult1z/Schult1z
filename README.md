@@ -8,7 +8,7 @@
 
 #### 💻 Web Developer (Junior)
 
-#### 🎓 Software Engineering Student (5nd semester)
+#### 🎓 Software Engineering Student (6nd semester)
 
 </div>
 
