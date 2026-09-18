@@ -10,7 +10,7 @@
 
 #### 🎓 Software Engineering Student (6nd semester)
 
-###  💻 Estagiário Vivo (Telefonica Brasil) 
+####  💻 Estagiário Vivo (Telefonica Brasil) 
 
 </div>
 
