@@ -6,9 +6,11 @@
 
 <div align="left">
 
-#### 💻 Web Developer (Junior)
+#### 💻 Full Stack(Junior)
 
 #### 🎓 Software Engineering Student (6nd semester)
+
+###  💻 Estagiário Vivo (Telefonica Brasil) 
 
 </div>
 
